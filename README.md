@@ -2,10 +2,6 @@
 
 This project presents an interactive Tableau dashboard created during a **Data Technician Bootcamp**, focusing on **music data analysis**. The dashboard visualizes insights from a cleaned dataset, highlighting top artists, popular music genres, and audience engagement trends.
 
-## View the Dashboard
-
-[Explore the Tableau Dashboard]([YOUR_DASHBOARD_LINK_HERE](https://public.tableau.com/views/ArtistsMusic_Dashboard/FinalDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
-
 ## Key Features
 
 - **Interactive Dashboards:** Explore music trends dynamically and identify top-performing artists and genres.  
@@ -26,3 +22,7 @@ This project presents an interactive Tableau dashboard created during a **Data T
 - Handling and visualizing music datasets  
 
 This project demonstrates the ability to **transform raw music data into actionable insights** through intuitive, interactive Tableau dashboards.
+
+## View the Dashboard
+
+[Explore the Tableau Dashboard](https://public.tableau.com/views/ArtistsMusic_Dashboard/FinalDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
